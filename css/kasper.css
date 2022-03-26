@@ -1082,7 +1082,7 @@
             display: flex;
         }
         
-        @media (max-width: 991px) {
+        @media (max-width: 1199px) {
             .contact .container .form {
                 flex-direction: column;
             }
